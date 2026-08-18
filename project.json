@@ -1,0 +1,27 @@
+{
+ "title_zh": "330亿彩票 · 人物资产选择",
+ "title_vi": "Vé Số 33 Tỷ · Lựa chọn nhân vật",
+ "subtitle_zh": "每个主角 2 选 1，配角逐个确认同意/不同意 → 点「确认提交」即可，无需下载",
+ "subtitle_vi": "Chọn 1 trong 2 phương án cho mỗi nhân vật chính, xác nhận đồng ý/không đồng ý cho vai phụ → bấm 「Xác nhận gửi」là xong, không cần tải file",
+ "choosers": [
+  {
+   "zh": "Dennis 先生",
+   "vi": "Ngài Dennis"
+  },
+  {
+   "zh": "Bao 先生",
+   "vi": "Ngài Bao"
+  },
+  {
+   "zh": "Long 先生",
+   "vi": "Ngài Long"
+  },
+  {
+   "zh": "Duku 导演",
+   "vi": "Đạo diễn Duku"
+  }
+ ],
+ "export_prefix": "330亿彩票_人物选择",
+ "storageKey": "lottery330_sel_v1",
+ "project_id": "lottery330"
+}
